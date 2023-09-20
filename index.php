@@ -100,20 +100,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-6">
-                    <div class="row">
-                      <div class="col-md-12 text-center">
-                        <button
-                          data-res=""
-                          type="submit"
-                          name="sendwhatsapp"
-                          class="btn-bg btn-lg mt-3"
-                        >
-                          Send whatsapp
-                        </button>
-                      </div>
-                    </div>
-                  </div>
+                  
                   
                 </div>
               </form>
