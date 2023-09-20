@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+}
+.logo img {
+  width: 300px;
+  background: #000000;
+  border-radius: 40%;
+}
+
+.our-detail h1 {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.primary-color {
+  color: #d7b65d;
+  font-weight: 600;
+}
+
+.text-color {
+  font-size: 16px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.btn-bg {
+  border: none;
+  outline: none;
+  background: #d7b65d;
+  color: #ffffff;
+  padding: 10px 30px;
+  border-radius: 10px;
+  font-size: 18px;
+}
